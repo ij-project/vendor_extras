@@ -214,27 +214,22 @@ PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
     AuroraSignalOverlay \
     BananaSignalOverlay \
-    BarsSignalOverlay \
     BoldSignalOverlay \
     ButterflySignalOverlay \
     CapsuleSignalOverlay \
     CircleSignalOverlay \
     DaunSignalOverlay \
     DecSignalOverlay \
-    DeepSignalOverlay \
     DoraSignalOverlay \
     DottedSignalOverlay \
     EqualSignalOverlay \
-    FaintUISignalOverlay \
     FanSignalOverlay \
-    ForlornSignalOverlay \
     GlummySignalOverlay \
     GradiconSignalOverlay \
     HeartbeatSignalOverlay \
     HollowSignalOverlay \
     HuaweiSignalOverlay \
     IOSSignalOverlay \
-    InsideSignalOverlay \
     IosSignalOverlay \
     JapaneseSignalOverlay \
     KoalaSignalOverlay \
@@ -242,15 +237,12 @@ PRODUCT_PACKAGES += \
     LinealSignalOverlay \
     LinearSignalOverlay \
     MicroWaveSignalOverlay \
-    MiniSignalOverlay \
     NinjaSignalOverlay \
     NothingDotSignalOverlay \
     NumberSignalOverlay \
-    OdinSignalOverlay \
     PillsSignalOverlay \
     PlumpySignalOverlay \
     ROGSignalOverlay \
-    RelSignalOverlay \
     RomanSignalOverlay \
     RoundSignalOverlay \
     RouterSignalOverlay \
@@ -259,30 +251,21 @@ PRODUCT_PACKAGES += \
     SeaSignalOverlay \
     SharpSignalOverlay \
     SleekSignalOverlay \
-    SneakySignalOverlay \
     SpiralSignalOverlay \
-    StackSignalOverlay \
-    StrokeSignalOverlay \
     TowerSignalOverlay \
     WaffleSignalOverlay \
     WannuiSignalOverlay \
-    WavySignalOverlay \
-    WindowsSignalOverlay \
     WindySignalOverlay \
     WingSignalOverlay \
-    XperiaSignalOverlay \
     ZigZagSignalOverlay
 
 # WiFi Icons
 PRODUCT_PACKAGES += \
     AiirOWiFiOverlay \
     AuroraWiFiOverlay \
-    BarsWiFiOverlay \
     BoldWiFiOverlay \
     CapsuleWiFiOverlay \
     DoraWiFiOverlay \
-    FaintUIWiFiOverlay \
-    ForlornWiFiOverlay \
     GlummyWiFiOverlay \
     GradiconWiFiOverlay \
     HollowWiFiOverlay \
@@ -302,15 +285,11 @@ PRODUCT_PACKAGES += \
     RouterWiFiOverlay \
     ScaleWiFiOverlay \
     SharpWiFiOverlay \
-    SneakyWiFiOverlay \
     SpiralWiFiOverlay \
-    StrokeWiFiOverlay \
     TowerWiFiOverlay \
     WaffleWiFiOverlay \
-    WavyWiFiOverlay \
     WeedWiFiOverlay \
     WindyWiFiOverlay \
-    XperiaWiFiOverlay \
     ZigZagWiFiOverlay
 
 # Brightness slider styles
