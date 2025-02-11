@@ -3,9 +3,6 @@ android_app_import {
     apk: "accord/accord.apk",
     certificate: "platform",
     product_specific: true,
-    overrides: [
-        "Twelve",
-    ],
     optional_uses_libs: [
         "androidx.window.extensions",
         "androidx.window.sidecar",
